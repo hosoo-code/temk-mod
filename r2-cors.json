@@ -1,0 +1,9 @@
+[
+  {
+    "AllowedOrigins": ["https://temk-mod.vercel.app/", "https://temk-mod.vercel.app/moderator/apply"],
+    "AllowedMethods": ["PUT", "GET", "HEAD"],
+    "AllowedHeaders": ["*"],
+    "ExposeHeaders": ["ETag"],
+    "MaxAgeSeconds": 3600
+  }
+]
